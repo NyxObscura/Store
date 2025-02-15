@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Improving session handling
 
-_Last updated: 2025-02-15T16:16:45.594Z_
+_Last updated: 2025-02-15T16:17:45.977Z_
