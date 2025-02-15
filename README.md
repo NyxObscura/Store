@@ -1,3 +1,3 @@
-# Optimizing caching mechanism
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-15T16:46:48.541Z_
+_Last updated: 2025-02-15T16:47:47.315Z_
