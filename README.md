@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T08:03:47.414Z_
+_Last updated: 2025-02-16T08:04:17.373Z_
