@@ -1,3 +1,3 @@
-# Enhancing webhook reliability
+# Improving session handling
 
-_Last updated: 2025-02-16T21:13:12.502Z_
+_Last updated: 2025-02-16T21:13:42.554Z_
