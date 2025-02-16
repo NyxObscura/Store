@@ -1,3 +1,3 @@
-# Updating project metadata
+# Simplifying function logic
 
-_Last updated: 2025-02-16T21:08:42.434Z_
+_Last updated: 2025-02-16T21:09:12.604Z_
