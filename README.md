@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T13:17:34.637Z_
+_Last updated: 2025-02-16T13:18:04.653Z_
