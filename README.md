@@ -1,3 +1,3 @@
-# Simplifying function logic
+# Reducing bundle size
 
-_Last updated: 2025-02-16T17:30:38.742Z_
+_Last updated: 2025-02-16T17:31:08.750Z_
