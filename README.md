@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Refactoring redundant functions
 
-_Last updated: 2025-02-16T13:46:05.145Z_
+_Last updated: 2025-02-16T13:46:35.347Z_
