@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Refactoring file structure
 
-_Last updated: 2025-02-16T15:58:37.318Z_
+_Last updated: 2025-02-16T15:59:07.311Z_
