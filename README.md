@@ -1,3 +1,3 @@
-# Fixing indentation issues
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T13:04:04.318Z_
+_Last updated: 2025-02-16T13:04:34.330Z_
