@@ -1,3 +1,3 @@
-# Improving application startup time
+# Refactoring component structure
 
-_Last updated: 2025-02-16T15:37:06.873Z_
+_Last updated: 2025-02-16T15:37:36.857Z_
