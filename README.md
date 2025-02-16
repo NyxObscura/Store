@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Improving session handling
 
-_Last updated: 2025-02-16T10:55:35.635Z_
+_Last updated: 2025-02-16T10:56:05.625Z_
