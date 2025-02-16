@@ -1,3 +1,3 @@
-# Removing deprecated functions
+# Refactoring role-based access control
 
-_Last updated: 2025-02-16T13:36:05.197Z_
+_Last updated: 2025-02-16T13:36:35.073Z_
