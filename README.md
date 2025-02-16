@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Enhancing offline support
 
-_Last updated: 2025-02-16T22:42:44.049Z_
+_Last updated: 2025-02-16T22:43:14.185Z_
