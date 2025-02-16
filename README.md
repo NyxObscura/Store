@@ -1,3 +1,3 @@
-# Refining notification system
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T21:46:43.082Z_
+_Last updated: 2025-02-16T21:47:13.092Z_
