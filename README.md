@@ -1,3 +1,3 @@
-# Fixing missing semicolons
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T13:45:35.271Z_
+_Last updated: 2025-02-16T13:46:05.145Z_
