@@ -1,3 +1,3 @@
-# Improving comments in code
+# Enhancing offline support
 
-_Last updated: 2025-02-16T18:32:39.765Z_
+_Last updated: 2025-02-16T18:33:09.848Z_
