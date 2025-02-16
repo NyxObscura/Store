@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Improving database indexing
 
-_Last updated: 2025-02-16T08:49:37.363Z_
+_Last updated: 2025-02-16T08:50:18.344Z_
