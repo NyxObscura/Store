@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T06:19:45.532Z_
+_Last updated: 2025-02-16T06:20:15.473Z_
