@@ -1,3 +1,3 @@
-# Improving text formatting
+# Optimizing SQL performance
 
-_Last updated: 2025-02-16T18:04:09.304Z_
+_Last updated: 2025-02-16T18:04:39.423Z_
