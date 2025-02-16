@@ -1,3 +1,3 @@
-# Improving text formatting
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T13:24:34.760Z_
+_Last updated: 2025-02-16T13:25:05.182Z_
