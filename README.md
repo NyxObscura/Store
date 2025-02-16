@@ -1,3 +1,3 @@
-# Refining UI elements
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T13:09:34.490Z_
+_Last updated: 2025-02-16T13:10:04.432Z_
