@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T10:09:40.261Z_
+_Last updated: 2025-02-17T10:10:10.249Z_
