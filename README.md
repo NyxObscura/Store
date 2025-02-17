@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T08:44:04.724Z_
+_Last updated: 2025-02-17T08:44:40.232Z_
