@@ -1,3 +1,3 @@
-# Fixing minor bugs
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T16:51:54.271Z_
+_Last updated: 2025-02-17T16:52:24.242Z_
