@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-17T16:53:24.256Z_
+_Last updated: 2025-02-17T16:53:54.347Z_
