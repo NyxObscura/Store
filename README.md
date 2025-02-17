@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Improving session handling
 
-_Last updated: 2025-02-17T18:03:54.566Z_
+_Last updated: 2025-02-17T18:04:24.577Z_
