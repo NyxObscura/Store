@@ -1,3 +1,3 @@
-# Updating configuration files
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T16:46:54.176Z_
+_Last updated: 2025-02-17T16:47:24.170Z_
