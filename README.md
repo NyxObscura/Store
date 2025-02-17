@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Simplifying function logic
 
-_Last updated: 2025-02-17T18:02:54.496Z_
+_Last updated: 2025-02-17T18:03:24.534Z_
