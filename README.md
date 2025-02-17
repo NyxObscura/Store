@@ -1,3 +1,3 @@
-# Removing unused variables
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T14:36:22.323Z_
+_Last updated: 2025-02-17T14:36:52.129Z_
