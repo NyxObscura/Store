@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T04:58:24.156Z_
+_Last updated: 2025-02-17T04:58:54.258Z_
