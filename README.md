@@ -1,3 +1,3 @@
-# Fixing data inconsistency issues
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T15:25:53.527Z_
+_Last updated: 2025-02-17T15:26:23.212Z_
