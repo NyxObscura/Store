@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Adding proper error messages
 
-_Last updated: 2025-02-17T12:50:36.254Z_
+_Last updated: 2025-02-17T12:51:06.314Z_
