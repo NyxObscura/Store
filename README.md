@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T03:29:22.951Z_
+_Last updated: 2025-02-17T03:29:52.626Z_
