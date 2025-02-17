@@ -1,3 +1,3 @@
-# Refactor README.md
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T10:13:40.269Z_
+_Last updated: 2025-02-17T10:14:10.262Z_
