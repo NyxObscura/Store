@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T16:20:53.759Z_
+_Last updated: 2025-02-17T16:21:23.774Z_
