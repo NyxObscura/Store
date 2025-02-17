@@ -1,3 +1,3 @@
-# Improving database indexing
+# Reducing memory usage
 
-_Last updated: 2025-02-17T06:01:55.593Z_
+_Last updated: 2025-02-17T06:02:25.229Z_
