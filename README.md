@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Updating API request parameters
 
-_Last updated: 2025-02-17T16:31:23.944Z_
+_Last updated: 2025-02-17T16:31:53.901Z_
