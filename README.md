@@ -1,3 +1,3 @@
-# Fixing compatibility issues
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T07:08:56.580Z_
+_Last updated: 2025-02-17T07:09:27.022Z_
