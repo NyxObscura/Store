@@ -1,3 +1,3 @@
-# Improving text formatting
+# Improving API documentation
 
-_Last updated: 2025-02-17T05:59:56.359Z_
+_Last updated: 2025-02-17T06:00:27.255Z_
