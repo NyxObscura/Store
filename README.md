@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Reducing bundle size
 
-_Last updated: 2025-02-17T17:42:54.126Z_
+_Last updated: 2025-02-17T17:43:24.103Z_
