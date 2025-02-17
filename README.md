@@ -1,3 +1,3 @@
-# Adjusting styling for better UX
+# Updating API request parameters
 
-_Last updated: 2025-02-17T09:38:20.808Z_
+_Last updated: 2025-02-17T09:38:43.281Z_
