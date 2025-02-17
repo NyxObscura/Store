@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Reducing bundle size
 
-_Last updated: 2025-02-17T04:45:24.192Z_
+_Last updated: 2025-02-17T04:45:54.074Z_
