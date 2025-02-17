@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T06:06:25.159Z_
+_Last updated: 2025-02-17T06:06:55.216Z_
