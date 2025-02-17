@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-17T22:56:59.647Z_
+_Last updated: 2025-02-17T22:57:29.746Z_
