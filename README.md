@@ -1,3 +1,3 @@
-# Fixing timezone-related issues
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T14:12:53.191Z_
+_Last updated: 2025-02-17T14:13:24.943Z_
