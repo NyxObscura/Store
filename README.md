@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Updating API request parameters
 
-_Last updated: 2025-02-18T00:35:26.189Z_
+_Last updated: 2025-02-18T00:35:36.255Z_
