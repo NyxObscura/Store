@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Adding proper error messages
 
-_Last updated: 2025-02-18T01:22:41.107Z_
+_Last updated: 2025-02-18T01:22:51.087Z_
