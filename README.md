@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Removing deprecated functions
 
-_Last updated: 2025-02-18T00:30:06.688Z_
+_Last updated: 2025-02-18T00:30:16.002Z_
