@@ -1,3 +1,3 @@
-# Improving error handling
+# Enhancing offline support
 
-_Last updated: 2025-02-18T00:43:57.274Z_
+_Last updated: 2025-02-18T00:44:07.472Z_
