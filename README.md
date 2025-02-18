@@ -1,3 +1,3 @@
-# Improving error handling
+# Refactoring role-based access control
 
-_Last updated: 2025-02-18T00:33:26.071Z_
+_Last updated: 2025-02-18T00:33:36.440Z_
