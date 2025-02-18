@@ -1,3 +1,3 @@
-# Enhancing mobile responsiveness
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-18T01:42:42.311Z_
+_Last updated: 2025-02-18T01:42:52.182Z_
