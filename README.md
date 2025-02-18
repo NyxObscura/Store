@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Fixing internationalization issues
 
-_Last updated: 2025-02-18T00:19:23.874Z_
+_Last updated: 2025-02-18T00:19:33.834Z_
